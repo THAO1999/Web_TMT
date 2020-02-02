@@ -1,0 +1,5 @@
+C:\Users\TA MINH THAO\source\repos\Solution1\Common\bin\Debug\Common.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Common\bin\Debug\Common.pdb
+C:\Users\TA MINH THAO\source\repos\Solution1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\TA MINH THAO\source\repos\Solution1\Common\obj\Debug\Common.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Common\obj\Debug\Common.pdb

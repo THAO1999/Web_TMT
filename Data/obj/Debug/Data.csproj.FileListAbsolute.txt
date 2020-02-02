@@ -1,0 +1,14 @@
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\Data.dll.config
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\Data.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\Data.pdb
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\Common.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\EntityFramework.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\Common.pdb
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\EntityFramework.xml
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\obj\Debug\Data.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Data\obj\Debug\Data.pdb

@@ -1,0 +1,15 @@
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Service.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Service.pdb
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Common.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Data.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Model.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Common.pdb
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Data.pdb
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Data.dll.config
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Model.pdb
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\bin\Debug\Model.dll.config
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\obj\Debug\Service.dll
+C:\Users\TA MINH THAO\source\repos\Solution1\Service\obj\Debug\Service.pdb
